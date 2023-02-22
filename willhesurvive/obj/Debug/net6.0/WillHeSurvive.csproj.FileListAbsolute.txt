@@ -1,0 +1,5 @@
+/Users/user/Desktop/development/csharp/willhesurvive/obj/Debug/net6.0/WillHeSurvive.csproj.AssemblyReference.cache
+/Users/user/Desktop/development/csharp/willhesurvive/obj/Debug/net6.0/WillHeSurvive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/development/csharp/willhesurvive/obj/Debug/net6.0/WillHeSurvive.AssemblyInfoInputs.cache
+/Users/user/Desktop/development/csharp/willhesurvive/obj/Debug/net6.0/WillHeSurvive.AssemblyInfo.cs
+/Users/user/Desktop/development/csharp/willhesurvive/obj/Debug/net6.0/WillHeSurvive.csproj.CoreCompileInputs.cache

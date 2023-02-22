@@ -1,0 +1,15 @@
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/bin/Debug/net6.0/ParseHTMLFrag
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/bin/Debug/net6.0/ParseHTMLFrag.deps.json
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/bin/Debug/net6.0/ParseHTMLFrag.runtimeconfig.json
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/bin/Debug/net6.0/ParseHTMLFrag.dll
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/bin/Debug/net6.0/ParseHTMLFrag.pdb
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.csproj.AssemblyReference.cache
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.AssemblyInfoInputs.cache
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.AssemblyInfo.cs
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.dll
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/refint/ParseHTMLFrag.dll
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.pdb
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ParseHTMLFrag.genruntimeconfig.cache
+/Users/user/Desktop/development/csharp_projects/ParseHTMLFrag/obj/Debug/net6.0/ref/ParseHTMLFrag.dll

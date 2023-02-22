@@ -1,0 +1,15 @@
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/bin/Debug/net6.0/ReverseArrWords
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/bin/Debug/net6.0/ReverseArrWords.deps.json
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/bin/Debug/net6.0/ReverseArrWords.runtimeconfig.json
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/bin/Debug/net6.0/ReverseArrWords.dll
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/bin/Debug/net6.0/ReverseArrWords.pdb
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.csproj.AssemblyReference.cache
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.AssemblyInfoInputs.cache
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.AssemblyInfo.cs
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.dll
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/refint/ReverseArrWords.dll
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.pdb
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ReverseArrWords.genruntimeconfig.cache
+/Users/user/Desktop/development/csharp_projects/ReverseArrWords/obj/Debug/net6.0/ref/ReverseArrWords.dll
