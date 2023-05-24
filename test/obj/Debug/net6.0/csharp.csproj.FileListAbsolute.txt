@@ -1,0 +1,15 @@
+/Users/user/Desktop/development/csharp/test/bin/Debug/net6.0/csharp
+/Users/user/Desktop/development/csharp/test/bin/Debug/net6.0/csharp.deps.json
+/Users/user/Desktop/development/csharp/test/bin/Debug/net6.0/csharp.runtimeconfig.json
+/Users/user/Desktop/development/csharp/test/bin/Debug/net6.0/csharp.dll
+/Users/user/Desktop/development/csharp/test/bin/Debug/net6.0/csharp.pdb
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.csproj.AssemblyReference.cache
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.AssemblyInfoInputs.cache
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.AssemblyInfo.cs
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.dll
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/refint/csharp.dll
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.pdb
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/csharp.genruntimeconfig.cache
+/Users/user/Desktop/development/csharp/test/obj/Debug/net6.0/ref/csharp.dll
