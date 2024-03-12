@@ -1,0 +1,15 @@
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/bin/Debug/net6.0/FilterOutBs
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/bin/Debug/net6.0/FilterOutBs.deps.json
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/bin/Debug/net6.0/FilterOutBs.runtimeconfig.json
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/bin/Debug/net6.0/FilterOutBs.dll
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/bin/Debug/net6.0/FilterOutBs.pdb
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.csproj.AssemblyReference.cache
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.AssemblyInfoInputs.cache
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.AssemblyInfo.cs
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.dll
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/refint/FilterOutBs.dll
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.pdb
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/FilterOutBs.genruntimeconfig.cache
+/Users/user/Desktop/development/csharp_projects/FilterOutBs/obj/Debug/net6.0/ref/FilterOutBs.dll
